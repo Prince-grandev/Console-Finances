@@ -1,0 +1,19 @@
+.container {
+
+    width: 100%;
+    align-content: center;
+    justify-content: center;
+
+}
+
+#display-con {
+
+    border-style: solid;
+    display: block;
+    border-width: 1px;
+    border-radius: 10px;
+    width: 100%;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
